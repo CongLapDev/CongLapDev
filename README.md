@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+HI+THERE+I'M+LAP!;AKA+LAPDZVL+^_^&font=Righteous&size=35&center=true&width=500&height=70&duration=4000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+HI+THERE+I'M+LAP!;AKA+AnhLapDepTrai+^_^&font=Righteous&size=35&center=true&width=500&height=70&duration=4000" alt="Typing SVG">
 </h1>
 
 <!-- Social Links -->
