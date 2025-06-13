@@ -18,9 +18,4 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,github,git" />
 </div>
 
----
 
-<!-- Footer -->
-<p align="center">
-  <i>Proudly created with <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></i>
-</p>
